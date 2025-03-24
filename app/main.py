@@ -19,7 +19,7 @@ from app.utils.file_writer import append_output_to_jsonl
 from app.enums import AppEnum, InvoiceEnum, VendorEnum
 
 app = FastAPI(
-    title="Record Processing Middleware Service",
+    title="Vendor and Invoice Record Processing Middleware Service",
     description="A service that processes and normalizes vendor and invoice records according to their company-specific requirements",
 )
 
