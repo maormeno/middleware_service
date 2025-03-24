@@ -92,7 +92,8 @@ A suite of unit tests with 100% coverage is provided in the `/tests/` folder, wh
 pytest
 ```
 
-(For reference [])
+(For reference <img width="1509" alt="Screenshot 2025-03-24 at 5 52 25 PM" src="https://github.com/user-attachments/assets/b041b701-b11f-4bac-8f9f-0ac67622ef1b" />
+ )
 
 
 ## API Endpoints
