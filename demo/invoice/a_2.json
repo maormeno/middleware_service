@@ -1,0 +1,15 @@
+{
+  "company": "A",
+  "invoiceId": "INV1002",
+  "invoiceDate": "2025-03-16",
+  "lines": [
+    {
+      "description": "Office supplies",
+      "amount": 100.00
+    },
+    {
+      "description": "Cleaning services",
+      "amount": 75.00
+    }
+  ]
+}

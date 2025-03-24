@@ -1,0 +1,15 @@
+{
+  "company": "B",
+  "invoiceId": "INV2001",
+  "invoiceDate": "2025-03-17",
+  "lines": [
+    {
+      "description": "Alcohol beverages",
+      "amount": 300.00
+    },
+    {
+      "description": "Stationery",
+      "amount": 50.00
+    }
+  ]
+}
